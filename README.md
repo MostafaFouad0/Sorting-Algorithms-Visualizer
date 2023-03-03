@@ -3,6 +3,7 @@ A program made with python and pygame that visualizes different sorting algorith
 - Heap Sort
 - Selection Sort
 - Bubble Sort
+- Odd Even sort
 - Insertion Sort
 - Cocktail Sort
 
