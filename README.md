@@ -7,6 +7,8 @@ A program made with python and pygame that visualizes different sorting algorith
 - Insertion Sort
 - Cocktail Sort
 
+Will update it with more algorithms later
+
 # Videos And Images
  https://user-images.githubusercontent.com/54133941/222667812-476aebca-f922-4cbc-9b2f-ea17f21c3005.mp4
  
